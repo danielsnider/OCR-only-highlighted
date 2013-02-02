@@ -21,7 +21,9 @@ Linux:
 
 Usage
 -----
-    ./highlight_OCR.out [image] [colour of highlighted colour, red intensity] [green intensity] [blue intensity]
+    ./highlight_OCR.out [image] [highlighted colour red intensity] [green intensity] [blue intensity]
+###### Example usage
+    ./highlight_OCR.out test-images/highlight_ocr.png 251 226 152
   
 Notes
 -----
